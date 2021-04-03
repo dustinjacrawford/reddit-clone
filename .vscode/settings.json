@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5e60025d-81ef-46b3-bfd7-e8f27c1b9c24/resourceGroups/RedditCloneResGroup/providers/Microsoft.Web/sites/cleddit",
+    "appService.deploySubpath": "build"
+}
